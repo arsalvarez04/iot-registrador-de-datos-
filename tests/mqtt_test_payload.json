@@ -1,0 +1,8 @@
+{
+  "temperature": 25.0,
+  "humidity": 60,
+  "pressure": 1012.5,
+  "wind_speed": 3.2,
+  "wind_direction": 190,
+  "uv_index": 4
+}
